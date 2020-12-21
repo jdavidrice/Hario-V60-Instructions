@@ -2,11 +2,19 @@
 @tailwind components;
 @tailwind utilities; */
 
-@import "tailwindcss/base";
+/* @import "tailwindcss/base";
 @import "tailwindcss/components";
-@import "tailwindcss/utilities";
+@import "tailwindcss/utilities"; */
 
 body {
   text-align: center;
-  font-family: 'anime_aceregular', sans-serif;
+  font: 1rem 'anime_aceregular', sans-serif;
+}
+ol,ul {
+ text-align: left;
+}
+
+.container.list {
+
+  text-align: center;
 }
