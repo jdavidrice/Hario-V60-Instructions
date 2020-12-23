@@ -4,4 +4,4 @@ My method for brewing delicious pour-over coffee with a Hario V60.
 
 Point Your Phone's Camera at This!
 
-![](Assets/Hario_QR.PNG)
+![](Assets/Images/Hario_QR.PNG)
