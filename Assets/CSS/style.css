@@ -2,7 +2,7 @@ body {
   text-align: center;
   font: 1rem 'anime_aceregular', sans-serif;
   align-items: center;
-  margin-top: 3rem;
+  /* margin-top: 3rem; */
 }
 ol,ul {
  text-align: left;
@@ -11,9 +11,23 @@ ol,ul {
  /* max-width: 70rem; */
  /* align-items: center; */
 }
-h5, .table {
+h4 {
+  font: 1.5rem sans-serif;
+}
+h5, 
+.table {
   font: 1.25rem sans-serif;
 }
+.container {
+  margin-top: 3rem;
+}
+.instructions {
+  margin-top: 0rem;
+}
+.instructions-list {
+  margin-top: 1rem;
+}
+
 /* .container {
   text-align: center;
   align-items: center;
