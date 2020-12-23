@@ -1,26 +1,24 @@
-/* @tailwind base;
-@tailwind components;
-@tailwind utilities; */
-
-/* @import "tailwindcss/base";
-@import "tailwindcss/components";
-@import "tailwindcss/utilities"; */
-
 body {
   text-align: center;
   font: 1rem 'anime_aceregular', sans-serif;
   align-items: center;
+  margin-top: 3rem;
 }
 ol,ul {
  text-align: left;
- max-width: 60rem;
- align-items: center;
+ font: 1.5rem sans-serif;
+ line-height: 2rem;
+ /* max-width: 70rem; */
+ /* align-items: center; */
 }
-.container {
+h5, .table {
+  font: 1.25rem sans-serif;
+}
+/* .container {
   text-align: center;
   align-items: center;
-}
-.container.list {
+} */
+/* .container.list {
   align-items: center;
   text-align: center;
-}
+} */
