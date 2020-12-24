@@ -1,0 +1,76 @@
+body {
+  text-align: center;
+  font: 1rem 'anime_aceregular', sans-serif;
+  align-items: center;
+  /* margin-top: 3rem; */
+}
+ol,ul {
+ text-align: left;
+ font: 1.5rem sans-serif;
+ line-height: 2rem;
+ /* max-width: 70rem; */
+ /* align-items: center; */
+}
+h4 {
+  font: 1.5rem sans-serif;
+}
+h5, 
+.table {
+  font: 1.25rem sans-serif;
+}
+img {
+  margin-bottom: 1rem;
+}
+.container {
+  margin-top: 3rem;
+}
+.instructions {
+  margin-top: 3rem;
+}
+.instructions-list {
+  margin-top: 1rem;
+}
+.grams-of-water {
+  font-weight: normal;
+}
+.footer {
+  margin-bottom: 3rem;
+}
+@media only screen and (max-width: 815px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+  h2,
+  h3,
+  h4 {
+    font-size: 1.3rem;
+  }
+  h5,
+  th {
+    font-size: 1.2rem;
+  }
+  ol,
+  ul {
+    padding: 0px;
+  }
+  li {
+    font-size: 1.3rem;
+    line-height: 1.3;
+  }
+  img {
+    width: 60%;
+    height: 60%;
+    /* margin-bottom: 1rem; */
+  } 
+  .container {
+    margin-top: 1.5rem;
+  }
+}
+/* .container {
+  text-align: center;
+  align-items: center;
+} */
+/* .container.list {
+  align-items: center;
+  text-align: center;
+} */
