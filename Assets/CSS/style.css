@@ -23,6 +23,9 @@ img {
   margin-bottom: 1rem;
   /* margin-bottom: .5rem; */
 }
+textarea {
+  resize: none;
+}
 .container {
   margin-top: 3rem;
 }
