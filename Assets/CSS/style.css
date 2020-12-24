@@ -27,7 +27,26 @@ h5,
 .instructions-list {
   margin-top: 1rem;
 }
-
+.grams-of-water {
+  font-weight: normal;
+}
+@media only screen and (max-width: 850px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+  h2,
+  h3,
+  h4 {
+    font-size: 1.3rem;
+  }
+  h5,
+  th {
+    font-size: 1.2rem;
+  }
+  .container {
+    margin-top: 2rem;
+  }
+}
 /* .container {
   text-align: center;
   align-items: center;
