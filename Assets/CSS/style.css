@@ -19,7 +19,9 @@ h5,
   font: 1.25rem sans-serif;
 }
 img {
+  margin-top: .5rem;
   margin-bottom: 1rem;
+  /* margin-bottom: .5rem; */
 }
 .container {
   margin-top: 3rem;
