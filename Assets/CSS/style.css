@@ -22,7 +22,7 @@ h5,
   margin-top: 3rem;
 }
 .instructions {
-  margin-top: 0rem;
+  margin-top: 3rem;
 }
 .instructions-list {
   margin-top: 1rem;
@@ -30,7 +30,7 @@ h5,
 .grams-of-water {
   font-weight: normal;
 }
-@media only screen and (max-width: 850px) {
+@media only screen and (max-width: 815px) {
   h1 {
     font-size: 1.5rem;
   }
@@ -43,8 +43,16 @@ h5,
   th {
     font-size: 1.2rem;
   }
+  ol,
+  ul {
+    padding: 0px;
+  }
+  li {
+    font-size: 1.3rem;
+    line-height: 1.3;
+  }
   .container {
-    margin-top: 2rem;
+    margin-top: 1.5rem;
   }
 }
 /* .container {
